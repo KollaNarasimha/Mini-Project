@@ -15,7 +15,10 @@ system.It maintains the information about the personal and official details of t
   3) Provides full functional reports to management of Company.
   4) The objective of this project is to provide a comprehensive approach towards the management of employee information. 
 
-
+# SDLC Activity Based Learning
+Build | Code Quality | Git Inspector
+|---------|------------|-------------
+[![C/C++ CI](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/c.yml/badge.svg)](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/c.yml)| [![Static Code Quality- Cppcheck](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/cpp.yml/badge.svg)](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/cpp.yml)| [![Contribution Check - Git Inspector](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/gitinspector.yml)
 
 
 ## Folder Structure
