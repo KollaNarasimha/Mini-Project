@@ -35,6 +35,6 @@ Folder             | Description
 * The Idea and Input Methodology
 
 
-##Code Inspectore
+##Code Inspector
 ![code quality score](https://www.code-inspector.com/project/24764/score/svg)
 ![code grade](https://www.code-inspector.com/project/24764/status/svg)
