@@ -33,3 +33,8 @@ Folder             | Description
 
 ##### Whats Same: 
 * The Idea and Input Methodology
+
+
+##Code Inspectore
+![code quality score](https://www.code-inspector.com/project/24764/score/svg)
+![code grade](https://www.code-inspector.com/project/24764/status/svg)
