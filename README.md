@@ -18,7 +18,7 @@ system.It maintains the information about the personal and official details of t
 # SDLC Activity Based Learning
 Build | Code Quality | Git Inspector
 |---------|------------|-------------
-[![C/C++ CI](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/c.yml/badge.svg)](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/c.yml)| [![Static Code Quality- Cppcheck](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/cpp.yml/badge.svg)](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/cpp.yml)| [![Contribution Check - Git Inspector](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/gitinspector.yml)| [![Code Inspector](https://www.code-inspector.com/project/24764/status/svg)]
+[![C/C++ CI](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/c.yml/badge.svg)](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/c.yml)| [![Static Code Quality- Cppcheck](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/cpp.yml/badge.svg)](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/cpp.yml)| [![Contribution Check - Git Inspector](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/KollaNarasimha/Mini-Project/actions/workflows/gitinspector.yml)| [![Code Inspector](https://www.code-inspector.com/project/24764/status/badge.svg)]
 
 
 ## Folder Structure
