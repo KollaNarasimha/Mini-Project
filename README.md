@@ -35,9 +35,9 @@ Folder             | Description
 * The Idea and Input Methodology
 
 
-##Code Inspector
+## Code Inspector
 ![code quality score](https://www.code-inspector.com/project/24764/score/svg)
 ![code grade](https://www.code-inspector.com/project/24764/status/svg)
 
-##codacy
+## Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/53b0801e25ac4312b76ecf0f4550e9f0)](https://www.codacy.com/gh/KollaNarasimha/Mini-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KollaNarasimha/Mini-Project&amp;utm_campaign=Badge_Grade)
